@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning Python for data processing and data analyzing. 
 
 - 📫 I'm an active Instagram user, find me there by @novitaangrn.
-
-- 😄 Pronouns: 'she'/'her' but more often with 'mbak'.
