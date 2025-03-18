@@ -1,7 +1,8 @@
-### Hi there 👋
+# 👋 Hi, I’m Novita!  
 
-- 🔭 I’m Novita, a final year undergraduate student majoring in Data  Science. 
+🔭 **Data Science graduate** with a passion for Machine Learning, NLP, and Deep Learning.  
+🌱 **Currently exploring** advanced deep learning architectures and NLP models.  
+🧠 **Fascinated by** how language models (like FinBERT) can transform financial data analysis.  
+📫 **Let’s connect!** Find me on Instagram: [@novitaangrn](https://instagram.com/novitaangrn)  
 
-- 🌱 I’m currently learning Python for data processing and data analyzing. 
-
-- 📫 I'm an active Instagram user, find me there by @novitaangrn.
+💡 *Learning never stops — one model at a time!*  
