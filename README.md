@@ -5,8 +5,7 @@
 
 📫 **Let’s connect!** Find me on LinkedIn: [@novitaangrn](https://linkedin.com/in/novitaangrn), or Instagram: [@novitaangrn](https://instagram.com/novitaangrn)  
 
-🧭 **Personal Portfolio:**  
-👉 [Novi-Portfolio](https://huggingface.co/spaces/novitaangrn/Novi-Portfolio)
+🧭 **Personal Portfolio:** [Novi-Portfolio](https://huggingface.co/spaces/novitaangrn/Novi-Portfolio)
 
 
 💡 *The more I learn, the more I realize there's more to learn.*  
