@@ -5,4 +5,8 @@
 🧠 **Fascinated by** how language models (like FinBERT) can transform financial data analysis.  
 📫 **Let’s connect!** Find me on LinkedIn: [@novitaangrn](https://linkedin.com/in/novitaangrn), or Instagram: [@novitaangrn](https://instagram.com/novitaangrn)  
 
-💡 *Learning never stops — one model at a time!*  
+🧭 **Personal Portfolio:**  
+👉 [Novi-Portfolio](https://huggingface.co/spaces/novitaangrn/Novi-Portfolio)
+
+
+💡 *The more I learn, the more I realize there's more to learn.*  
